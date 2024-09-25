@@ -1,0 +1,51 @@
+# ulang = 10 
+# for i in runge(ulang):
+# print("Perulangan ke-" + str(i))
+
+# simpan = [12, "udin petot",14.5, True, 'A']
+# for i in simpan:
+#     print(i,end- ' ')
+
+# dor i in range(1, 10, 2): #(awal, akhir lompatan)
+
+# for i in range(1, 4):
+#     for j in range(1, 4):
+# print(f"{i} x {j} = {1 & j}")
+# print()
+
+# jawab = 'ya'
+# hitung = 0
+
+# while(jawab == 'ya'): #kondisi/syarat
+#    hutung += 2 #hitung = hitung + 2
+#   jawab = input("ulang lagi tidak? : ")
+# print(f"total perulangan : {hitung}")
+
+# print("Daftar bilangan ganjil dari 1-10")
+# for i in range(10):
+#   if i % 3 == 0:
+#        continue
+#    print(i)
+        
+# hitung = 0
+# while True: #selalu benar
+#     hitung += 1
+#     ulang = input("Masih ingin mengulang? ")
+#     if ulang == "tidak" or ulang =="Tidak":
+#     break
+
+# print(F"total perulangan: {hitung}")
+
+# for i in range(1, 20, 3):
+#      if i % 2 == 0:
+#          continue
+#      ptint(1)
+
+ buah = ["apel", 'pisang', 'jeruk', 'melon', 'semangka']
+ buah_baru = []
+ 
+ for i in buah:
+     if "e" in i:
+         buah_baru.append(i)
+
+print(buah_baru)
